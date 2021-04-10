@@ -17,7 +17,6 @@ func PaymentSources(cards []types.Card) []types.PaymentSource {
 			Number: cards.PAN,
 			Balance: int(cards.Balance),
 		}
-
 		payments = append(payments, payment)
 		
 	}

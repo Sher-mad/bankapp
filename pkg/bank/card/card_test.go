@@ -30,9 +30,6 @@ func ExamplePaymentSources() {
 		fmt.Println(payment.Number)
 
 	}
-	// for i := 0; i < len(card); i++ {
-	// 	fmt.Println(payment[i].Number)
-	// }
 
 	// Output:
 	// 5058 xxxx xxxx 9988
