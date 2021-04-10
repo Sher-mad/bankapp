@@ -35,7 +35,7 @@ func ExamplePaymentSources() {
 	// }
 
 	// Output:
-	// 5058 xxxx xxxx 998
+	// 5058 xxxx xxxx 9988
 	// 5058 xxxx xxxx 9880
 
 }
