@@ -16,9 +16,8 @@ type Card struct {
 	Active     bool
 }
 
-
 type PaymentSource struct {
 	Type    string // 'card'
 	Number  string // Номер вида '5058 xxxx xxxx 8888'
-	Balance int  // баланс в дирамах
+	Balance int    // баланс в дирамах
 }
